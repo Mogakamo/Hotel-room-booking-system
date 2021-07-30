@@ -1,0 +1,19 @@
+body{
+    background-color: #eee;
+}
+
+#login {
+    border: solid black 1px;
+    width: 25%;
+    border-radius: 2px;
+    margin: 120px auto;
+    background-color: white;
+    padding: 50px;
+}
+
+#submit {
+    color: aqua;
+    background-color: #337ab7;
+    padding: 7px;
+    margin-left: 70%;
+}
